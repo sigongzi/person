@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: 'Quantum Entanglement: An Analysis via the Orthogonality Relation'
+title: Propositional Logic and Modal Logic-A Connection via Relational Semantics
 subtitle: ''
 summary: ''
 authors:
 - Shengyang Zhong
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2022-01-01'
 lastmod: 2024-05-19T15:09:53+08:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-19T07:09:53.249836Z'
+publishDate: '2024-05-19T07:09:53.576272Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Foundations of Physics*'
+publication: ''
 ---
